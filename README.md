@@ -22,4 +22,4 @@ const response = await fetch('https://your-convertor-api.com/convert', {
         body: formData
       });
 
-// you can check this out in popup.js
+// you can check this out in popup.js (https://github.com/IsaacTalb/convertor-extensions/blob/main/popup.js)
